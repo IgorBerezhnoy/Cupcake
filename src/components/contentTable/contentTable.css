@@ -1,0 +1,19 @@
+.minCell {
+  background-color: rgb(0, 144, 253);
+  color: white;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+.highlight {
+  background-color: #00a9ff; /* Color for the highlighted cell */
+}
